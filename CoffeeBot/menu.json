@@ -1,3 +1,24 @@
 {
-    
+    "menuitems": [
+        {
+            "item": "regular",
+            "price": 2.5
+        },
+        {
+            "item": "decafe",
+            "price": 6.66
+        },
+        {
+            "item": "tea",
+            "price": 2
+        },
+        {
+            "item": "muffin",
+            "price": 3.75
+        },
+        {
+            "item": "cookie",
+            "price": 1
+        }
+    ]
 }
